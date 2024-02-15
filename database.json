@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Moby Dick",
+        "author": {
+            "name": "Herman Melville",
+            "born": 1819
+        }
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": {
+            "name": "Harper Lee",
+            "born": 1926
+        }
+    },
+    {
+        "title": "1984",
+        "author": {
+            "name": "George Orwell",
+            "born": 1903
+        }
+    },{
+        "title": "Pride and Prejudice",
+        "author": {
+            "name": "Jane Austen",
+            "born": 1775
+        }
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": {
+            "name": "F. Scott Fitzgerald",
+            "born": 1896
+        }
+    },
+    {
+        "title": "Jane Eyre",
+        "author": {
+            "name": "Charlotte Brontë",
+            "born": 1816
+        }
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": {
+            "name": "J.D. Salinger",
+            "born": 1919
+        }
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": {
+            "name": "J.R.R. Tolkien",
+            "born": 1892
+        }
+    }
+]
