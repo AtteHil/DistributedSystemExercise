@@ -4,54 +4,63 @@
         "author": {
             "name": "Herman Melville",
             "born": 1819
-        }
+        },
+        "stores": [["Helsinki", 4], ["Vantaa", 2], ["Lahti", 6]]
     },
     {
         "title": "To Kill a Mockingbird",
         "author": {
             "name": "Harper Lee",
             "born": 1926
-        }
+        },
+        "stores": [["Helsinki", 5], ["Vantaa", 3], ["Espoo", 7]]
     },
     {
         "title": "1984",
         "author": {
             "name": "George Orwell",
             "born": 1903
-        }
-    },{
+        },
+        "stores": [] 
+    },
+    {
         "title": "Pride and Prejudice",
         "author": {
             "name": "Jane Austen",
             "born": 1775
-        }
+        },
+        "stores": [["Helsinki", 2], ["Tampere", 1], ["Turku", 4]]
     },
     {
         "title": "The Great Gatsby",
         "author": {
             "name": "F. Scott Fitzgerald",
             "born": 1896
-        }
+        },
+        "stores": [["Espoo", 3], ["Vantaa", 2], ["Oulu", 5]]
     },
     {
         "title": "Jane Eyre",
         "author": {
             "name": "Charlotte Brontë",
             "born": 1816
-        }
+        },
+        "stores": [["Helsinki", 3], ["Lahti", 1], ["Kuopio", 2]]
     },
     {
         "title": "The Catcher in the Rye",
         "author": {
             "name": "J.D. Salinger",
             "born": 1919
-        }
+        },
+        "stores": [["Tampere", 2], ["Jyväskylä", 4], ["Helsinki", 3]]
     },
     {
         "title": "The Lord of the Rings",
         "author": {
             "name": "J.R.R. Tolkien",
             "born": 1892
-        }
+        },
+        "stores": [["Oulu", 5], ["Helsinki", 6], ["Turku", 4]]
     }
 ]

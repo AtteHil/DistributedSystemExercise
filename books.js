@@ -15,7 +15,7 @@ app.post("/book", (req, res)=>  {
     const title = req.body.book;
     const book= findBookByTitle(title);
     if(book){
-        return res.status(200).send({book})
+        return res.status(200).send(book.stores)
     } else {
         return res.status(403).send({message: "Not Found"})
     }
