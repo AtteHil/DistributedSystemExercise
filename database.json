@@ -21,7 +21,7 @@
             "name": "George Orwell",
             "born": 1903
         },
-        "stores": [] 
+        "stores": [["Joensuu", 2],["Kuopio", 1], ["Tampere", 5]] 
     },
     {
         "title": "Pride and Prejudice",
